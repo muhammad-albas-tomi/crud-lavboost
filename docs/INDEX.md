@@ -52,7 +52,39 @@ Berisi:
 
 **Cocok untuk:** Referensi sehari-hari saat coding.
 
-### 5. [CHANGELOG.md](CHANGELOG.md)
+### 5. [BEGINNER_GUIDE.md](BEGINNER_GUIDE.md)
+**🌟 PANDUAN UTAMA UNTUK MAHASISWA/PEMULA!**
+
+Berisi:
+- Materi prasyarat yang harus dipelajari (PHP, HTML, CSS, SQL)
+- Learning path (urutan belajar) dari level 1-5
+- Penjelasan mendalam tentang MVC, Routes, Controllers, Models, Views
+- Latihan-latihan praktis (tambah field, filter, module baru)
+- Tips belajar untuk mahasiswa dan dosen
+- Cheatsheet perintah Artisan
+- Checklist belajar
+- Troubleshooting untuk pemula
+
+**Cocok untuk:** Mahasiswa, pemula, atau yang baru belajar Laravel. **DIBACA PERTAMA KALI!**
+
+### 6. [VISUAL_GUIDE.md](VISUAL_GUIDE.md)
+**📊 Diagram visual alur kerja sistem.**
+
+Berisi:
+- Diagram arsitektur MVC lengkap
+- Flowchart request/response (Create, Update, Delete)
+- Struktur database dengan visualisasi
+- Struktur views (Blade templates)
+- Flow validation
+- Layout structure (sidebar, content area)
+- Request lifecycle Laravel
+- Search & filter flow
+- Pagination flow
+- Key concepts visual summary
+
+**Cocok untuk:** Visual learner, yang butuh gambaran visual untuk memahami alur kerja.
+
+### 7. [CHANGELOG.md](CHANGELOG.md)
 **Riwayat perubahan project.**
 
 Berisi:
@@ -65,6 +97,23 @@ Berisi:
 **Cocok untuk:** Melihat apa yang baru di setiap versi.
 
 ## 🎯 Panduan Pembacaan Berdasarkan Role
+
+### 🎓 MAHASISWA/PEMULA (RECOMMENDED PATH)
+
+Urutan membaca yang disarankan:
+1. **[README.md](../README.md)** - Untuk instalasi dan overview project
+2. **[BEGINNER_GUIDE.md](BEGINNER_GUIDE.md)** - ⭐ **PANDUAN UTAMA!** Mulai dari sini
+   - Pelajari materi prasyarat (PHP, HTML, CSS, SQL)
+   - Ikuti learning path level 1-5
+   - Kerjakan latihan-latihan praktis
+3. **[VISUAL_GUIDE.md](VISUAL_GUIDE.md)** - Lihat diagram-diagram untuk memahami alur
+4. **[ARCHITECTURE.md](ARCHITECTURE.md)** - Pelajari struktur project lebih dalam
+5. **[API.md](API.md)** - Referensi saat coding
+
+**Waktu belajar estimasi:**
+- Pemula (baru belajar PHP): 4-6 minggu
+- Intermediate (kenal PHP, baru Laravel): 1-2 minggu
+- Advanced (kenal Laravel): 3-5 hari
 
 ### 👨‍💻 Developer Baru
 

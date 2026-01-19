@@ -6,6 +6,12 @@ Sistem manajemen admin dashboard lengkap dengan 4 modul CRUD menggunakan Laravel
 
 Untuk dokumentasi lengkap, kunjungi:
 
+### 🌟 Untuk Mahasiswa/Pemula:
+- **[BEGINNER_GUIDE.md](docs/BEGINNER_GUIDE.md)** - ⭐ **MULAI DARI SINI!** Panduan lengkap belajar Laravel dengan project ini
+- **[VISUAL_GUIDE.md](docs/VISUAL_GUIDE.md)** - Diagram visual alur kerja dan arsitektur sistem
+
+### Untuk Developer:
+- **[INDEX.md](docs/INDEX.md)** - 📋 Indeks dokumentasi (panduan membaca berdasarkan role)
 - **[ARCHITECTURE.md](docs/ARCHITECTURE.md)** - Arsitektur project dan struktur folder
 - **[DEVELOPER_GUIDE.md](docs/DEVELOPER_GUIDE.md)** - Panduan developer lengkap
 - **[API.md](docs/API.md)** - API helpers dan functions
